@@ -1,6 +1,8 @@
 # EFIS-Hardware-7-inch
 Hardware design files for 7" EFIS display
 
+This is an experimental system, and is not suited for primary or backup flight/engine instrumentation or navigation. Use at your own risk.
+
 ![Exploded View](Renderings/Exploded.JPG)
 
 Other required hardware:
